@@ -1,2 +1,4 @@
 # Netflix-clone-
-Netflix(clone) html,css
+Netflix(clone) site
+using on Html,css file
+
